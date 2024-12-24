@@ -1,0 +1,1 @@
+import{Ib as m,Va as o,qb as n,rb as i,zc as r}from"./chunk-RVVVTUXY.js";var d=(()=>{class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["lab-state"]],decls:2,vars:0,template:function(t,p){t&1&&(n(0,"p"),m(1,"state works!"),i())},dependencies:[r],encapsulation:2})}return e})();export{d as StateComponent};

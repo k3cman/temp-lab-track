@@ -1,0 +1,1 @@
+import{Ib as a,Va as t,qb as n,rb as r,zc as i}from"./chunk-RVVVTUXY.js";var c=(()=>{class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=t({type:e,selectors:[["lab-dashboard"]],decls:2,vars:0,template:function(o,d){o&1&&(n(0,"p"),a(1,"dashboard works!"),r())},dependencies:[i],encapsulation:2})}return e})();export{c as DashboardComponent};
